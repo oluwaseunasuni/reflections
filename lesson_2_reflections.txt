@@ -8,3 +8,11 @@ How is the staging area different from the working directory and the repository?
     the staging area is different from the above mention in a way that it allows to 
     add and delete files without affecting your commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+    by adding one logical change to the staging area, per time.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    Situations like when one is expereimenting, and doesnt want to 
+    cause permanent changes to the working files.
